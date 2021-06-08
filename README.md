@@ -1,2 +1,4 @@
 # Python-Share-MarketBot
-  ## Plans:-
+      Plans:-
+        
+          -> Step1, Find a broker
