@@ -1,1 +1,2 @@
 # Python-Share-MarketBot
+  ## Plans:-
